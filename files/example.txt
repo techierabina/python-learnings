@@ -1,0 +1,7 @@
+Python is a versatile programming language.
+It is widely used in data science, web development, and automation.
+File handling allows Python to read, write, and manage files.
+This is useful for tasks like saving user data, reading configurations, and logging events.
+
+Practice makes perfect!
+Keep learning and coding every day.
